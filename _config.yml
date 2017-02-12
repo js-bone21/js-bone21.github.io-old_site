@@ -1,0 +1,25 @@
+# Site Settings
+title:               Josh Soucie
+tagline:             Engineer, Hacker, Entrepreneur, Globetrotter
+description:
+baseurl:            "/"
+url:                #"https://www.joshsoucie.com"
+github:
+  url:               "https://www.joshsoucie.com"
+author:
+  name:              "Joshua Soucie"
+  email:             "jlsoucie21@gmail.com"
+  twitter:           "josh_soucie"
+  instagram:         "joshsoucie"
+  github:            "js-bone21"
+  facebook:          "jlsoucie"
+  linkedin:          "joshuasoucie"
+  spotify:           "124000948"
+paginate:            5
+
+
+# Build settings
+# markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+gems:                [jekyll-paginate]
